@@ -1,0 +1,30 @@
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\bin\Debug\UsoDatePicker_Practico.exe.config
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\bin\Debug\UsoDatePicker_Practico.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\bin\Debug\UsoDatePicker_Practico.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.csproj.AssemblyReference.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\MainWindow.g.cs
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\App.g.cs
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico_MarkupCompile.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico_MarkupCompile.lref
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\MainWindow.baml
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.g.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.Properties.Resources.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.csproj.GenerateResource.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.csproj.CoreCompileInputs.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.pdb
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\bin\Debug\UsoDatePicker_Practico.exe.config
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\bin\Debug\UsoDatePicker_Practico.exe
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\bin\Debug\UsoDatePicker_Practico.pdb
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\App.g.cs
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.g.resources
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.exe
+C:\Users\LENOVO\Desktop\UsoDatePicker_Practico\obj\Debug\UsoDatePicker_Practico.pdb
